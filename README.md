@@ -5,4 +5,4 @@ Django practice project
 * Apache+mod_wsgi
 * Nginx+uWSGI
 
-一只程序猿的 Python 之旅...
+一只程序猿的 Python 之旅... 哇哇哇
