@@ -1,5 +1,5 @@
 # DjangoProject
-Django practice project
+Django practice project (develop)
 
 部署：
 * Apache+mod_wsgi
